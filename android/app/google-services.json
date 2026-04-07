@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64879703963",
+    "project_id": "beeswise-d3eb1",
+    "storage_bucket": "beeswise-d3eb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64879703963:android:8afc5ab3b462370babd33e",
+        "android_client_info": {
+          "package_name": "com.example.beewise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknkPJxNakm9HmAqT2oFfau-V0gr64vWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
