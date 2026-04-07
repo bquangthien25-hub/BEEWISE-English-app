@@ -6,4 +6,4 @@ English learning app (Duolingo-style), Flutter + Clean Architecture.
 
 ## BEEWISE English App
 
-🚀 **BEEWISE - HỌC TIẾNG ANH THÔNG MINH, CHẠM ĐỈNH TƯƠNG LAI!**
+ **BEEWISE - HỌC TIẾNG ANH THÔNG MINH, CHẠM ĐỈNH TƯƠNG LAI!**
